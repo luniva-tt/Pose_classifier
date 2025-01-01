@@ -1,0 +1,20 @@
+[
+    {
+        "pose": "mountain",        
+        "instances": [
+            {
+                "sequence_id": 1000,
+                "url_id": 1530,
+                "url": "https://www.youtube.com/watch?v=5vIJX7SIiJo",
+                "frame_start": 159,
+                "frame_end": 163,
+                "source_id": 1089,
+                "source": "Alo Yoga",
+                "collector_id": 3,
+                "split": "train"
+            }
+            
+       
+        ]
+    }
+]
